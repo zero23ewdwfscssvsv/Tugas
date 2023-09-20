@@ -9,7 +9,7 @@ type nama barang struct {
 	      harga int
 }
 
-func main()
+func main() {
 	 barang := []barang{
 	 barang{nama: "Fun Cooler Smartphone", harga: 150000},
 	 barang{nama: "Game Pad Rexus", harga: 400000},
